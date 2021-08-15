@@ -43,6 +43,7 @@
   "homepage": "/resources/",
   "packageManager": "yarn@3.0.1",
   "devDependencies": {
+    "@types/testing-library__jest-dom": "^5.14.1",
     "eslint-config-react": "^1.1.7",
     "eslint-config-react-app": "^6.0.0"
   }
